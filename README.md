@@ -14,4 +14,4 @@ Postman collection for API testing (positive + negative scenarios).
 
 ## Repo structure
 - `collections/` — Postman collection JSON
-- `environments/` — sample environment (no secrets)
+
